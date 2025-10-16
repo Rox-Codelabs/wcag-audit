@@ -1,9 +1,6 @@
 # WCAG Audit 
 
-Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
-
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
-
+In de WCAG-audit ga ik de website van de Slapping Studs IJshockeyvereniging bekijken. Dit is om te onderzoeken hoe toegankelijk de website is, want "het web is voor iedereen". Het is daarom belangrijk dat de website voor iedereen een goede gebruikservaring biedt, ook als je bijvoorbeeld een screenreader gebruikt of geen muis hebt. In de wiki heb ik mijn bevindingen bijgehouden.
 
 ## Titel Website
 
